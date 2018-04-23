@@ -23,4 +23,4 @@
 | 版本号 | 0.1.0.1000 |
 | 发行 | 自媒体 |
 | 资助 | 无 |
-| 网址 | [源码地址](https://github.com/Zhejiang-University-GKC/OrganicIntelligentCourseware/reports/AI-Thinking)
+| 网址 | [源码地址](https://github.com/XINYUANZJU/AI-Thinking)
