@@ -27,7 +27,7 @@
 		{ "name" : "导言", "file" : "preamble.md" },
 		{ "name" : "棋类游戏", "file" : "chess-game.md" },
 		{ "name" : "阿法狗", "file" : "alpha-go.md" },
-		{ "name" : "人工智能", "file" : "ai.md" },
+		{ "name" : "人工智能", "file" : "ai/ai.md" },
 		{ "name" : "脑科学", "file" : "brain-science.md" },
 		{ "name" : "结论", "file" : "conclusion.md" },
 		{ "name" : "致谢", "file" : "acknowledgement.md" },
