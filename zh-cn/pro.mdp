@@ -15,16 +15,18 @@
 "document-directory" : "doc",
 "language" : 2052,
 "cover" : "cover.jpg",
-"title" : "title.md",
-"content" : "preamble.md",
-"copyright" : "copyright.md",
+"cover-name" : "首页",
+"topic" : "人工智能沉思录",
+"identifier" : "urn:ZR00.000--2017ZZ000001/01+00/01",
 "command" : [
-			"multimarkdown -o $DEST$ $SRC$"
+			"txtf -bom -d $SRC$ temp.m",
+			"multimarkdown -o $DEST$ temp.m",
+			"$DEL$ temp.m"
 			],
 "tree" : [
-		{ "name" : "封面", "file" : "title.md" },
+		{ "name" : "封面", "file" : "title.md", "guide" : "title" },
 		{ "name" : "序", "file" : "preface.md" },
-		{ "name" : "导言", "file" : "preamble.md" },
+		{ "name" : "导言", "file" : "preamble.md", "guide" : "content" },
 		{ "name" : "棋类游戏", "file" : "chess-game.md" },
 		{ "name" : "阿法狗", "file" : "alpha-go.md" },
 		{ "name" : "人工智能", "file" : "ai/ai.md", "tree" : [
@@ -34,6 +36,6 @@
 		{ "name" : "脑科学", "file" : "brain-science.md" },
 		{ "name" : "结论", "file" : "conclusion.md" },
 		{ "name" : "致谢", "file" : "acknowledgement.md" },
-		{ "name" : "版权", "file" : "copyright.md" }
+		{ "name" : "版权", "file" : "copyright.md", "guide" : "copyright" }
 		]
 }

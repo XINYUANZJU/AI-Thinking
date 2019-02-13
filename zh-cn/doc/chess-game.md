@@ -33,7 +33,7 @@
 
 不难看出，上述算法可以用一棵直观的搜索树来表示，如图1-1所示：
 
-![搜索树](chess-game-files/qlyx1.jpg "tree")
+![](chess-game-files/qlyx1.jpg "tree")
 
 图1-1 搜索树，图片来自[腾讯体育][TXTY-20170110]
 
