@@ -30,12 +30,26 @@
 		{ "name" : "棋类游戏", "file" : "chess-game.md" },
 		{ "name" : "阿法狗", "file" : "alpha-go.md" },
 		{ "name" : "人工智能", "file" : "ai/ai.md", "tree" : [
-															{ "name" : "机器学习", "file" : "ai/ml.md" }
+															{ "name" : "机器学习", "file" : "ai/ml.md" },
+															{ "name" : "应用分析", "file" : "ai/app.md" }
 															]
 		},
 		{ "name" : "脑科学", "file" : "brain-science.md" },
 		{ "name" : "结论", "file" : "conclusion.md" },
 		{ "name" : "致谢", "file" : "acknowledgement.md" },
+		{ "name" : "附录", "file" : "appendix/appendix.md", "tree" : [
+															{ "name" : "数学基础", "file" : "appendix/math.md" },
+															{ "name" : "机器学习资料", "file" : "appendix/ml.md" },
+															{ "name" : "几何学习资料", "file" : "appendix/geo.md" },
+															{ "name" : "信号处理", "file" : "appendix/sig.md" },
+															{ "name" : "自动控制学习资料", "file" : "appendix/ac.md" },
+															{ "name" : "计算机视觉", "file" : "appendix/cv.md" },
+															{ "name" : "人工智能", "file" : "appendix/ai.md" },
+															{ "name" : "脑科学", "file" : "appendix/bs.md" },
+															{ "name" : "医疗学习资料", "file" : "appendix/med.md" },
+															{ "name" : "科研学习资料", "file" : "appendix/research.md" }
+															]
+		},
 		{ "name" : "版权", "file" : "copyright.md", "guide" : "copyright" }
 		]
 }
