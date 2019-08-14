@@ -124,3 +124,7 @@
 1. [迈克尔乔丹：人工智能，革命远未发生](https://gu.qq.com/resources/shy/news/detail-v2/index.html?from=timeline#/index?id=SN2019070415501212d3460c&s=b&wxurl=qqstock%3A%2F%2FnewsV2%2F13%2F%2FSN2019070415501212d3460c%2F%2F%2F&pagetype=share)
 
 1. [我为什么建议人人都学机器学习](https://mp.weixin.qq.com/s/LAz-QHUYwIMqATYH2KWuEw)
+
+1. [别吹了，AI的泡沫快被吹破了](https://mp.weixin.qq.com/s/2MwAu175DLS6MWrZRCgIPQ)
+
+1. [从《华为的冬天》到AI的冬天 | 甲子光年](https://mp.weixin.qq.com/s/hGUb4kHX906XpS1o8h8Tfg)
