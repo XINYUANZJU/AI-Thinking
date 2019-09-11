@@ -17,7 +17,7 @@
 "cover" : "cover.jpg",
 "cover-name" : "首页",
 "topic" : "人工智能沉思录",
-"identifier" : "urn:7809C95A-1D1D-4589-BE16-2D9C1F93AF5B",
+"identifier" : "urn:uuid:7809C95A-1D1D-4589-BE16-2D9C1F93AF5B",
 "command" : [
 			"txtf -bom -d $SRC$ temp.m",
 			"multimarkdown -o $DEST$ temp.m",
