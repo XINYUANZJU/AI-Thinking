@@ -12,3 +12,4 @@
 # 计算机视觉
 
 1. [一文了解什么是语义分割及常用的语义分割方法有哪些](http://new.qq.com/omn/20180605/20180605A07G5U.html?pgv_ref=aio2015&ptlang=2052)
+1. [机器与人类视觉能力的差距（2）](http://www.yinwang.org/blog-cn/2019/09/15/machine-vs-human-2)
