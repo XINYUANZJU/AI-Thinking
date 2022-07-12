@@ -150,6 +150,8 @@
 它无法精确地认知事物，这点才是计算机可以超越的地方，从而作为生物的辅助工具而继续存在。
 但要说成是人工智能会全面取代人类，那是绝对不可能的，相信读者已经明白这其中的道理了吧。
 
+关于类脑研究，其他学者也发出了不同的声音，参见[学术评论：类脑计算][XSPL]。
+
 ## 小结
 
 全世界的脑科学仍未破冰，仍然停留在脑区这一宏观研究层面。
@@ -161,3 +163,4 @@
 [NJH-20171025]: http://www.sohu.com/a/200058215_465915 "脑计划"
 [LN-20170922]: http://www.cas.cn/kx/kpwz/201709/t20170914_4614417.shtml "类脑智能"
 [LJ-20180418]: https://mp.weixin.qq.com/s?__biz=MzU0ODE1NDE0NQ==&mid=2247505621&idx=1&sn=c133fd58edff4587aaba68e719783b8c&chksm=fb41e89bcc36618d0ede7e0f5f9e809eca240bf9f6b4d11ddf38d072db689d69e9f92f483407&mpshare=1&scene=1&srcid=0429ccf2OMYVW5cpj9tI5TK1#rd "联觉"
+[XSPL]: http://blog.sciencenet.cn/blog-2371919-1301158.html "学术评论"
